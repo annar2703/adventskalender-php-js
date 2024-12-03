@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chrisgram</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./doors.js" defer></script>
+  </head>
+  <body>
+    <div id="grandparentBox">
+      <div id="sideBar">
+        <div id="sideBarInside">
+          <p id="ueberschrift">Chrisgram</p>
+          <p onclick="home()">🏠 Home</p>
+          <!--zeige einen Schneeman als Content-->
+          <div onclick="createDoorsOnContent()">🎄 All Doors</div>
+          <!--der heutige Tag-->
+          <p onclick="showLikedDays()">🤍 liked Posts</p>
+          <!--Liked Posts-->
+          <div id="snowman">⛄</div>
+        </div>
+      </div>
+      <div id="parentBox">
+        <div id="profile">
+          <div>
+            <img
+              id="profPic"
+              src="./img/profilbild.jpg"
+              alt="Profile"
+              width="150px"
+            />
+          </div>
+          <div>
+            <div class="parentName">
+              <div class="eins">
+                <p id="profileName">mrsclausessecrets</p>
+              </div>
+              <!--<div class="2">
+                <p id="notRealButton">Profil bearbeiten</p>
+              </div>
+              <div class="3">
+                <p id="notRealButton">Zum Archiv</p>
+              </div>-->
+            </div>
+            <div class="parentName">
+              <div class="eins">
+                <p>❄️</p>
+              </div>
+              <div class="2">
+                <p>❄️</p>
+              </div>
+              <div class="3">
+                <p>❄️</p>
+              </div>
+              <div>
+                <p></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="content"></div>
+      </div>
+    </div>
+    <div id="overlay">
+      <div id="day">
+        <p>Dies ist ein Zentriertes overlay</p>
+      </div>
+    </div>
+  </body>
+</html>

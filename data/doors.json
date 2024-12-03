@@ -1,0 +1,171 @@
+{ "doors": [
+    {
+        "header": "Kekse Backen",
+        "img1": "1_1_kekse.jpg",
+        "img2": "1_2.jpg",
+        "blogEntry": "Heute habe ich mich ans Keksebacken gemacht – und es hat sich gelohnt! Der Duft von Vanille und Schokolade erfüllte die ganze Wohnung. Mit Butter, Zucker und Liebe entstanden knusprige Köstlichkeiten. Das Beste? Das Naschen zwischendurch! Ein Nachmittag voller Backspaß und am Ende eine süße Belohnung.",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Adventskranz selber basteln",
+        "img1": "2_1.jpg",
+        "img2": "2_2.jpg",
+        "blogEntry": "Heute habe ich meinen eigenen Adventskranz gestaltet! Mit frischem Tannengrün, roten Kerzen und liebevollen Details wie Zimtstangen, Schleifen und kleinen Kugeln wurde er richtig festlich. Das Basteln war entspannend und hat die Vorfreude auf die Adventszeit geweckt. Nun strahlt er in meinem Wohnzimmer und bringt weihnachtliche Stimmung nach Hause.",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Punsch Rezept",
+        "img1": "3_1.jpg",
+        "img2": "3_2.jpg",
+        "blogEntry": "Zubereitung (die Zutaten nach lust und laune): Früchtetee zubereiten und in einen Topf geben. Apfelsaft, Orangensaft, Honig, Zimtstangen, Nelken und Orangenscheiben hinzufügen. Alles langsam erhitzen (nicht kochen!) und 10–15 Minuten ziehen lassen. Anschließend durchsieben und heiß servieren. Perfekt für kalte Winterabende!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Matching Pyjama Links",
+        "img1": "4_1.png",
+        "img2": "4_2.png",
+        "blogEntry": "Heute war ich bei H&M und habe mir einen neuen Pyjama gegönnt. Kuschelig, bequem und perfekt für die kalten Tage! Es gibt nichts Besseres, als sich abends in einen gemütlichen Schlafanzug zu werfen. Jetzt freue ich mich noch mehr auf entspannte Abende mit Tee und einem guten Buch.",
+        "links": "https://www2.hm.com/de_at/productpage.1205821004.html"
+    },
+    {
+        "header": "Film Abend",
+       "img1": "5_1.png",
+        "img2": "5_2.png",
+        "blogEntry": "Heute habe ich mir einen entspannten Filmabend gegönnt! Mit einer Decke, Snacks und meinem Lieblingsfilm wurde das Wohnzimmer zum Heimkino. Popcorn, warme Getränke und eine entspannte Atmosphäre haben den Abend perfekt gemacht. Es tut gut, einfach abzuschalten und sich von einer guten Geschichte mitreißen zu lassen.",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Lebkuchenhaus",
+       "img1": "6_1.jpg",
+        "img2": "6_2.jpg",
+        "blogEntry": "Heute haben wir ein Lebkuchenhaus von IKEA für nur 4 € verziert – und es war ein voller Erfolg! Mit Zuckerguss, bunten Streuseln und Schokolade wurde das einfache Häuschen zu einem echten Kunstwerk. Es hat riesigen Spaß gemacht, gemeinsam kreativ zu sein, und am Ende duftete alles herrlich nach Weihnachten.",
+        "links": "https://www.ikea.com/at/de/p/vintersaga-pfefferkuchenhaus-20594967/"
+    },
+    {
+        "header": "Tierheim helfen",
+        "img1": "7_2.png",
+        "img2": "7_1.png",
+        "blogEntry": "Heute waren wir mit Hunden aus dem Tierheim spazieren – ein wunderschönes Erlebnis! Die Hunde waren voller Freude, und es war toll, ihnen ein bisschen Bewegung und Zuwendung zu schenken. Gleichzeitig tat der Spaziergang an der frischen Luft auch uns richtig gut. Eine tolle Möglichkeit, Gutes zu tun und Zeit mit Vierbeinern zu verbringen.",
+        "links": "https://www.tierheim-steyr.at/zeitspenden/"
+    },
+    {
+        "header": "Christmas Shopping",
+       "img1": "8_1.jpg",
+        "img2": "8_2.jpg",
+        "blogEntry": "Heute waren wir Weihnachts-Shoppen – und die Stimmung war einfach magisch! Lichterketten, geschmückte Schaufenster und der Duft von Lebkuchen machten die Suche nach Geschenken besonders schön. Von kleinen Aufmerksamkeiten bis zu besonderen Überraschungen haben wir einiges gefunden. Jetzt freuen wir uns noch mehr auf die besinnliche Zeit und das Einpacken der Geschenke!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Weihnachtskarten machen und verschicken",
+       "img1": "9_1.jpg",
+        "img2": "9_2.jpg",
+        "blogEntry": "Heute haben wir kreative Weihnachtskarten gebastelt und verschickt. Mit buntem Papier, Glitzer und viel Liebe entstanden einzigartige Grüße für Familie und Freunde. Es hat riesigen Spaß gemacht, die Karten individuell zu gestalten, und wir hoffen, dass sie für Freude und weihnachtliche Stimmung sorgen. Tradition trifft Kreativität – ein schönes Gefühl! ",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Eislaufen gehen",
+       "img1": "10_1.jpg",
+        "img2": "10_2.jpg",
+        "blogEntry": "Heute waren wir Eislaufen! Die frische Luft und das Gleiten über das Eis haben einfach so viel Spaß gemacht. Es war ein toller Ausgleich zum Alltag, und wir haben viel gelacht, auch wenn der ein oder andere Sturz dabei war. Ein perfekter Wintertag voller Bewegung und Freude!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Skifahren",
+       "img1": "11_1.jpg",
+        "img2": "11_2.jpg",
+        "blogEntry": "Heute waren wir Skifahren und es war einfach fantastisch! Die schneebedeckten Berge, die klare Luft und das Gefühl, die Pisten hinunterzufahren, haben den Tag unvergesslich gemacht. Ob Anfänger oder Profi – der Spaß kam nicht zu kurz. Ein perfekter Tag in der Natur, der richtig gut getan hat! ",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Backkurs machen",
+       "img1": "12_1.jpg",
+        "img2": "12_2.jpg",
+        "blogEntry": "Heute habe ich an einem Backkurs teilgenommen – und es war ein tolles Erlebnis! Unter Anleitung haben wir verschiedene Leckereien zubereitet, von fluffigen Brötchen bis hin zu köstlichen Kuchen. Es war spannend, neue Techniken zu lernen und mit anderen gemeinsam zu backen. Am Ende durften wir unsere selbstgemachten Kreationen mit nach Hause nehmen – ein wahrer Genuss!",
+        "links": "https://triviar.de/c/backkurse/lokale-kurse/linz"
+    },
+    {
+        "header": "Weihnachtsmarkt",
+       "img1": "13_1.jpg",
+        "img2": "13_2.jpg",
+        "blogEntry": "Heute haben wir den Weihnachtsmarkt besucht – und die festliche Stimmung war einfach bezaubernd! Überall erleuchteten Lichter, der Duft von Glühwein und gebrannten Mandeln lag in der Luft, und die bunten Stände luden zum Stöbern ein. Es war eine wunderbare Gelegenheit, Weihnachtsgeschenke zu entdecken und die Vorfreude auf das Fest zu genießen. ",
+        "links": "https://christkindlmarkt-linz.at/linz-weihnachtsmarkt"
+    },
+    {
+        "header": "Schlittenfahren",
+        "img1": "14_1.jpg",
+        "img2": "14_2.jpg",
+        "blogEntry": "Heute haben wir eine tolle Zeit beim Schlittenfahren verbracht! Der Schnee glitzerte in der Sonne, und wir sausten mit viel Freude den Hügel hinunter. Lachen, Rodeln und die frische Luft machten den Tag perfekt. Ein Spaß für Groß und Klein – so lässt sich der Winter richtig genießen!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Schneeballschlacht",
+        "img1": "15_1.jpg",
+        "img2": "15_2.jpg",
+        "blogEntry": "Heute haben wir eine aufregende Schneeballschlacht gemacht! Der frische Schnee war perfekt, um die besten Schneebälle zu formen und uns gegenseitig zu treffen. Lachen, Rennen und viel Spaß – es war ein toller Wintertag, der uns richtig aufgetaut hat. Die kalte Luft und der weiße Schnee machten die Schlacht noch spaßiger!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Spieleabend",
+        "img1": "16_1.jpg",
+        "img2": "16_2.jpg",
+        "blogEntry": "Heute hatten wir einen tollen Spieleabend! Wir haben uns zusammengefunden, um Brettspiele und Kartenspiele zu spielen, und die Stimmung war einfach super. Viel gelacht, ein paar knifflige Entscheidungen getroffen und jede Menge Spaß gehabt. Ein perfekter Abend, um dem Alltag zu entfliehen und Zeit mit Freunden oder Familie zu genießen!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Marshmello Schneemann",
+        "img1": "17_1.jpg",
+        "img2": "17_2.jpg",
+        "blogEntry": "Für einen Marshmello-Schneemann für deinen Kakao kannst du einfach zwei Marshmallows auf einen Schaschlikspieß stecken – einen größeren für den Körper und einen kleineren für den Kopf. Mit Schokoladenstückchen oder Zuckerguss kannst du dann Augen und Knöpfe hinzufügen. Für die Nase eignet sich eine kleine Karotte oder ein bisschen orangefarbener Zuckerguss. Setze deinen kleinen Marshmello-Schneemann auf den Rand deiner heißen Schokolade und genieße diesen süßen Hingucker, der deinen Kakao noch festlicher macht. Ein perfekter Genuss für die kalte Jahreszeit!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Schneeflocken ausschneiden",
+        "img1": "18_1.jpg",
+        "img2": "18_2.jpg",
+        "blogEntry": "Schneeflocken auszuschneiden ist eine wunderbare Möglichkeit, festliche Stimmung zu zaubern. Du kannst einfach ein quadratisches Stück Papier nehmen, es in der Mitte falten und dann noch einmal, sodass du ein kleines Dreieck erhältst. Nun kannst du mit einer Schere Muster und Formen an den Rändern schneiden – lass deiner Kreativität freien Lauf! Wenn du das Papier wieder aufklappst, erscheint eine wunderschöne Schneeflocke. Du kannst die Schneeflocken an Fenstern oder an der Wand aufhängen, um dein Zuhause in winterliches Flair zu tauchen. Es macht nicht nur Spaß, sondern sorgt auch für eine tolle Dekoration in der Adventszeit!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Geschenkideen",
+        "img1": "19_1.jpg",
+        "img2": "19_2.jpg",
+        "blogEntry": "Heute habe ich die Geschenke eingepackt – eine wunderbare Gelegenheit, die Vorfreude auf Weihnachten noch weiter zu steigern. Mit buntem Papier, Schleifen und kleinen Dekorationen wurden die Päckchen zu echten Hinguckern. Es hat richtig Spaß gemacht, jedes Geschenk individuell zu gestalten und die kleinen Überraschungen für Familie und Freunde vorzubereiten. Jetzt sind alle Geschenke fertig – die Vorfreude auf das Auspacken wächst!",
+        "links": "https://at.pinterest.com/pin/297870962867944977/"
+    },
+    {
+        "header": "Heiße Schokolade Kugeln",
+       "img1": "20_1.jpg",
+        "img2": "20_2.jpg",
+        "blogEntry": "Kakaokugeln sind eine einfache und köstliche Nascherei, die perfekt für die kalte Jahreszeit ist. Du kannst sie mit wenigen Zutaten schnell zubereiten: Mische Kakao, Puderzucker und etwas Vanillezucker in einer Schüssel. Füge dann weiche Butter und etwas Milch hinzu, um eine formbare Masse zu erhalten. Rolle kleine Kugeln daraus und wälze sie in Schokoladenstreuseln oder Kakaopulver. Die Kugeln lassen sich gut aufbewahren und sind eine tolle Leckerei für einen gemütlichen Nachmittag oder als kleines Geschenk. Einfach, schnell und absolut lecker!",
+        "links": "https://www.kitchenstories.com/de/rezepte/der-tiktok-trend-heisse-schokobomben"
+    },
+    {
+        "header": "Sterne anschauen",
+       "img1": "21_1.jpg",
+        "img2": "21_2.jpg",
+        "blogEntry": "Heute haben wir die Sterne angeschaut – ein ruhiger und magischer Moment unter dem weiten Nachthimmel. Es ist faszinierend, wie viele Sterne man sehen kann, wenn man den Blick vom Alltag abwendet und in den Himmel richtet. Der klare Himmel und die funkelnden Sterne haben eine fast meditative Wirkung. Es ist einfach wunderschön, die Unendlichkeit des Universums zu bestaunen und für einen Moment alles andere zu vergessen. Ein perfekter Moment der Ruhe und des Staunens.",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Schal stricken",
+        "img1": "22_1.jpg",
+        "img2": "22_2.jpg",
+        "blogEntry": "Heute habe ich gestrickt – es war so entspannend und kreativ! Mit weichem Garn habe ich an einem neuen Projekt gearbeitet, und es macht richtig Spaß, die einzelnen Maschen zu sehen, wie sie sich zu etwas Schönem zusammenfügen. Stricken ist eine tolle Möglichkeit, abzuschalten und gleichzeitig etwas Nützliches zu erschaffen, wie etwa einen Schal oder ein kleines Accessoire. Es ist erstaunlich, wie beruhigend und gleichzeitig befriedigend es ist, etwas mit den eigenen Händen zu schaffen.",
+        "links": "https://utopia.de/ratgeber/schal-stricken-kostenlose-anleitung-fuer-strickanfaenger_157757/"
+    },
+    {
+        "header": "Weihnachtssocken kaufen",
+        "img1": "23_1.jpg",
+        "img2": "23_2.jpg",
+        "blogEntry": "Heute habe ich Weihnachtssocken gekauft – perfekt, um mich auf die festliche Saison einzustimmen! Die Auswahl war riesig: von lustigen Motiven mit Rentieren und Schneemännern bis hin zu klassischen Mustern in Rot und Grün. Sie sind nicht nur bequem, sondern bringen auch jede Menge Weihnachtsstimmung in den Alltag. Jetzt freue ich mich noch mehr auf die gemütlichen Winterabende zu Hause!",
+        "links": "./noLink.html"
+    },
+    {
+        "header": "Familienfoto Wettbewerb",
+        "img1": "24_1.jpg",
+        "img2": "24_2.jpg",
+        "blogEntry": "Es gibt viele Familien, die an Weihnachten wunderschöne Fotos machen, und jedes Bild erzählt seine eigene Geschichte. Das schönste Foto ist oft das, das die besonderen Momente und die gemeinsame Freude einfängt – sei es ein Lächeln, das Zusammensein um den Weihnachtsbaum oder ein spontaner, liebevoller Augenblick. Es ist nicht das perfekte Bild, das zählt, sondern der Moment dahinter, der die Liebe und Verbundenheit in der Familie zeigt. Jede Familie hat ihre eigenen besonderen Erinnerungen, die in solchen Fotos verewigt werden.",
+        "links": "./noLink.html"
+    }
+    
+] }
